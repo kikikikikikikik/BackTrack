@@ -41,4 +41,5 @@ public class CombinationNum {
         List<List<Integer>> list=combinationNum(n,7);
         System.out.println(list);
     }
+   
 }
